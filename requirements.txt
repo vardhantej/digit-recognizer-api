@@ -7,4 +7,5 @@ pandas==1.2.4
 requests>=0.11.1
 opencv_python==4.5.4.60
 tensorflow-cpu==2.6.1
+keras==2.6.0
 
